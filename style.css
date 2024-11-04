@@ -2,7 +2,6 @@ body{
     background-color :peru;
     color:beige;
     margin: 0px;
-    font-family: "Dancing Script", cursive;
 }
 
 header{
@@ -10,7 +9,7 @@ header{
     padding: 20px;
     font-size: 32px;
     color:beige;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Dancing Script", cursive;
 }
 
 section{
