@@ -12,6 +12,10 @@ header{
     font-family: "Dancing Script", cursive;
 }
 
+section h3{
+    font-family: "Cormorant Garamond", serif;
+}
+
 section{
     background-color:sienna;
     padding-top: 80px;
